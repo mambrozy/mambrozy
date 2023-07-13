@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Freelancer, Frontend and PHP Developer. I'm trying to become Fullstack to be independent in my projects.
+- 👋 Hi, I’m Freelancer, Frontend and PHP Developer.Becoming independent in my projects.
+- Technoglogies: HTML, CSS, Javascript, React, 
 - 👀 I’m interested in IT Technologies, music and sport.
-- 🌱 I’m currently learning Symfony.
+
 
 <!---
 --->
